@@ -93,6 +93,8 @@ img {
     
 }
 
+/*Gallery*/
+
 .gallery  {
     display:inline-grid;
     grid-template-columns:auto auto auto;
@@ -150,6 +152,8 @@ img {
 
     
 }
+
+/*Loader*/
 
 .loader {
     display:-ms-inline-grid;
